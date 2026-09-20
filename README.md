@@ -14,8 +14,7 @@ Here's some data bits I've done in the past
 
 # Table of Contents
 1. [Contact Information](#contact-information)
-2. [Skills and Technologies](#skills-and-technologies)
-3. [My Past Projects](#my-past-data-projects)
+2. [Some Projects](#my-past-data-projects)
    - [Hybrid AI/Traditional Animation pipeline for kids content](https://github.com/diamond-one/hybrid-AI-animated-shorts-pipeline)
    - [Game Sentiment Explorer - Helldivers2 Player review sentiment analysis](https://github.com/diamond-one/Game-Review-Insights-Helldivers2)
    - [CG TV Series Production Pipeline Optimization](#cg-tv-series-production-pipeline-optimization)
@@ -25,15 +24,15 @@ Here's some data bits I've done in the past
    - [Optimizing Efficiency in Animation Production](#optimizing-efficiency-in-animation-production)
    - [Impact of Revisions and Feedback Loops on Animation Production](#impact-of-revisions-and-feedback-loops-on-animation-production)
    - [European LinkedIn Data Jobs Insights](https://github.com/diamond-one/LinkedIn-Data-Jobs-Insights)
-5. [Other Projects](#other-projects)
+3. [Other Projects](#other-projects)
    - [Linkedin Job Post Scraper](https://github.com/diamond-one/Linkedin_Scraper)
    - [ASynchronous Slack-bot](#asynchronous-slack-bot)
    - [Ableton Controller](#ableton-controller)
    - [Hanimex E300 Super 8 Viewer Retrofit](#hanimex-e300-super-8-viewer-retrofit)
    - [Czech Quest: Master 1000 Words](#czech-quest-master-1000-words)
-6. [Professional Experience](#professional-experience)
-7. [Education](#education)
-8. [Personal Interests](#personal-interests)
+4. [Professional Experience](#professional-experience)
+5. [Education](#education)
+6. [Personal Interests](#personal-interests)
 
 # Contact Information
 
@@ -44,15 +43,8 @@ Feel free to connect for collaborations or discussions on data analytics.
 
 ---
 
-# Skills and Technologies
 
-I am proficient in Excel, Python (Numpy, Pandas, Matplotlib, Selenium), SQL, JQL, Power BI, Cognos, Looker Studio, Ftrack, Shotgrid, and Git.
-
-Constantly expanding my skill set to include new tools and technologies.
-
----
-
-# My Past Projects
+# Some projects
 
 ## [Hybrid AI/Traditional Animation pipeline for kids content](https://github.com/diamond-one/hybrid-AI-animated-shorts-pipeline)
 <img align="left" width="250" height="150" src="https://github.com/diamond-one/hybrid-AI-animated-shorts-pipeline/blob/main/docs/supporting_images/image-2.png" style="margin-right: 15px;">
