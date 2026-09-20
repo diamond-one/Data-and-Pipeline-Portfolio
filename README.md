@@ -8,7 +8,9 @@
 
 Hi, I'm Matt Diamond.
 
-As an experienced Project manager and Creative Solutions Architect with a background in the gaming and TV production industries, I specialize in descriptive analytics, forecasting, and optimizing project management data pipelines. My passion lies in uncovering stories hidden within data and helping businesses forecast future trends. I combine technical expertise with creative problem-solving to deliver actionable insights.
+I thrive at the intersection of creativity and technology—aligning cross-disciplinary teams, guiding user-centric design, and implementing AI-driven and data-informed solutions that drive both engagement and efficiency. Whether reimagining a brand’s interactive presence or leading the creative direction of a game across platforms, I bring clarity, cohesion, and strategic foresight to every stage of development.
+
+Here's some data bits I've done in the past
 
 # Table of Contents
 1. [Contact Information](#contact-information)
