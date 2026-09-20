@@ -8,7 +8,11 @@
 
 Hi, I'm Matt Diamond.
 
-I thrive at the intersection of creativity and technology—aligning cross-disciplinary teams, guiding user-centric design, and implementing AI-driven and data-informed solutions that drive both engagement and efficiency. Whether reimagining a brand’s interactive presence or leading the creative direction of a game across platforms, I bring clarity, cohesion, and strategic foresight to every stage of development.
+Senior Creative Director | AI Creative Systems & Production Pipeline Lead 
+Senior Creative Director and AI systems integration specialist with 15+ years of experience leading creative vision, visual development, and production systems across games, television, branding, interactive products, and real-time platforms. Specialises in building scalable visual languages, AI-assisted creative pipelines, and production workflows that connect artistic ambition with technical and commercial delivery.
+
+Builder-first creative leader with experience spanning hands-on design execution, senior team leadership, pipeline optimisation, outsource management, and close collaboration with Product, Engineering, Art, and Executive Leadership. Experienced in creating ComfyUI, Unreal Engine, and AI-assisted workflows that support concept development, look exploration, UI iteration, product visualisation, and scalable creative production.
+
 
 Here's some data bits I've done in the past
 
@@ -143,6 +147,9 @@ A terminal-based language learning app using the Leitner system for vocabulary m
 ## [LinkedIn](https://www.linkedin.com/in/thisismattdiamond/)
 
 ---
+**AI Production Pipeline Lead / Creative Technology Consultant** - Studio Scintilla
+
+**Creative Director** - AB InBev (Reign of Titans)
 
 - **Creative Director and Solutions Architect**: at Snow Angel 
   
